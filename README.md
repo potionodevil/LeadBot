@@ -274,5 +274,5 @@ Bei Problemen oder Fragen:
 ---
 
 <p align="center">
-  <sub>Built with caffeine & automation 🤖☕</sub>
+  <sub>Built with caffeine and love☕</sub>
 </p>
