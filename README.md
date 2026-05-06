@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)](https://python.org)
 [![Playwright](https://img.shields.io/badge/Playwright-1.49+-green?logo=playwright)](https://playwright.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-teal?logo=fastapi)](https://fastapi.tiangolo.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -256,13 +255,6 @@ Wenn Google ein Captcha anzeigt:
 - **Autorisierung:** Nur deine Telegram User-ID kann Commands ausführen
 - **Tab-Isolierung:** Jeder Website-Scan läuft in einem separaten Browser-Tab
 
----
-
-## 📝 Lizenz
-
-MIT License — siehe [LICENSE](LICENSE) für Details.
-
----
 
 ## 🙋 Support
 
