@@ -1,0 +1,22 @@
+# Web-Framework für das Dashboard-Interface
+fastapi==0.115.0
+# ASGI-Server zum Hosten der FastAPI-App
+uvicorn==0.30.6
+# Telegram-Bot-Framework (v20+)
+python-telegram-bot==21.6
+# Lädt Umgebungsvariablen aus .env-Datei
+python-dotenv==1.0.1
+# Leichte JSON-Datenbank für lokale Lead-Speicherung
+tinydb==4.8.2
+# Offizieller Notion-API-Client
+notion-client==2.2.1
+# HTTP-Requests für Playwright-ergänzende Calls
+requests==2.32.3
+# HTML-Parser für Website-Analyse
+beautifulsoup4==4.12.3
+# Schneller XML/HTML-Parser für BeautifulSoup
+lxml==5.3.0
+# Playwright für Browser-Automatisierung (Google-Suche, Screenshots)
+playwright==1.49.0
+# Stealth-Plugin um Bot-Erkennung zu umgehen
+playwright-stealth==1.0.6

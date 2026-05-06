@@ -1,0 +1,77 @@
+# ── Umgebungsvariablen & Secrets ──────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ── Virtuelle Umgebungen ──────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── IDEs & Editoren ───────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# ── OS-spezifisch ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ──────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Datenbanken & lokale Daten ────────────────────────────────────────────
+db/
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Screenshots & Assets ──────────────────────────────────────────────────
+screenshots/
+leads_screenshots/
+
+# ── Browser Session (Cookies, Cache) ──────────────────────────────────────
+browser_session/
+
+# ── CSV-Backups ───────────────────────────────────────────────────────────
+*.csv
+
+# ── Prozess-Locks ─────────────────────────────────────────────────────────
+*.pid
+
+# ── Test-Coverage ─────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Node (falls Frontend hinzugefügt wird) ────────────────────────────────
+node_modules/
+npm-debug.log*
+
+# ── Playwright ────────────────────────────────────────────────────────────
+test-results/
+playwright-report/
+playwright/.cache/
